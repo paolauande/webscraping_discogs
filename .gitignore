@@ -1,0 +1,5 @@
+venv/
+data/blues_data_raw.jsonl
+data/blues_data_clean.jsonl
+__pycache__/
+*.pyc

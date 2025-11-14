@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 **2. Execute o comando:**
 ```
-python src/main.py
+python -m src.main
 ```
 
 **Atenção durante a execução:** \
