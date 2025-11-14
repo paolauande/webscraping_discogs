@@ -1,6 +1,6 @@
-from scraper import run_scraper
-from data_handler import save_to_jsonl
-from transform import process_file
+from src.scraper import run_scraper
+from src.data_handler import save_to_jsonl
+from src.transform import process_file
 
 GENRE = "Blues"
 RAW_FILE = "data/blues_data_raw.jsonl"  
